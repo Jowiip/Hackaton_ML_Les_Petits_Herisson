@@ -3,6 +3,8 @@ import sys
 import os
 import csv
 
+#essai de script pour vérifier le format du fichier de soumission
+
 # --- Configuration ---
 FILENAME = "submission.csv"
 EXPECTED_ROWS = 418
